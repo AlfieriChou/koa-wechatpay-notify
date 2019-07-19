@@ -13,7 +13,7 @@ npm install koa-wechatpay-notify --save
 const wechatpayNotify = require('koa-wechatpay-notify')
 
 router.post('/wechatpay/notify', wechatpayNotify(), async (ctx) => {
-  const notify = ctx.quest.weixin
+  const notify = ctx.request.weixin
   console.log(notify)
   // {
     // appid: 'xxx',
