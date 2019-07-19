@@ -1,8 +1,13 @@
 {
   "name": "koa-wechatpay-notify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WeChatPay notify middleware.",
   "main": "index.js",
+  "keywords": [
+    "wechatpay",
+    "middleware",
+    "notify"
+  ],
   "repository": "https://github.com/AlfieriChou/koa-wechatpay-notify",
   "author": "AlfieriChou <alfierichou@gmail.com>",
   "license": "MIT",
