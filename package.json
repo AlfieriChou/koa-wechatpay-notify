@@ -12,7 +12,7 @@
   "author": "AlfieriChou <alfierichou@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fast-xml-parser": "^3.12.17",
+    "fast-xml-parser": "^4.0.0",
     "he": "^1.2.0"
   }
 }
